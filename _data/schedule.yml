@@ -158,7 +158,7 @@ rows:
   - weekno: 3
     tut: 
       topic: "Classical Testing"
-      slides: ""
+      slides: "tutorials/Tutorial_8.pdf"
     wed: 
       topic: "Classical Testing 3"
       slides: "slides/10-testing-01.pdf"
